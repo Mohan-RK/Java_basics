@@ -1,5 +1,0 @@
-package sample_subpack;
-interface pack_class{
-public int one();
-public int two();
-}
